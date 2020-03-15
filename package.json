@@ -12,6 +12,7 @@
     "@types/react-dom": "^16.9.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-router": "^5.1.2",
     "react-scripts": "3.4.0",
     "typescript": "~3.7.2"
   },
@@ -42,6 +43,7 @@
   "devDependencies": {
     "@types/eslint-plugin-prettier": "^2.2.0",
     "@types/prettier": "^1.19.0",
+    "@types/react-router": "^5.1.4",
     "@types/stylelint": "^9.10.1",
     "@types/testing-library__jest-dom": "^5.0.2",
     "@types/testing-library__react": "^9.1.3",
