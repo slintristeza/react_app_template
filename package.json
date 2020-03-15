@@ -76,16 +76,10 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ],
     "src/**/*.{css,jsx,tsx}": [
-      "stylelint --fix",
-      "git add"
-    ],
-    "functions/src/**/*.{js,ts}": [
-      "cd functions/ && eslint --fix",
-      "git add"
+      "stylelint --fix"
     ]
   }
 }
